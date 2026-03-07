@@ -27,4 +27,4 @@ VLAN Segmented Networks
 
 Below is the topology for Project 1.
 
-![Network Topology](network-topology.png)
+![Network Topology](./network-topology.png)
