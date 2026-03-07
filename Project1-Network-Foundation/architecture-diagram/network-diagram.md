@@ -22,3 +22,9 @@ FortiGate Firewall
 Cisco Catalyst Switch  
 ↓  
 VLAN Segmented Networks
+
+# Network Architecture
+
+Below is the topology for Project 1.
+
+![Network Topology](network-topology.png)
